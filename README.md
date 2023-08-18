@@ -44,7 +44,7 @@ Download and install the latest version of the Arduino IDE from the official web
 3. Replace `auth[]` with your Blynk authentication token.
 4. Upload the sketch to your ESP32 board.
 
-Here is the code: [ESP32_BLE Example Sketch]([./ESP32_BLE/ESP32_BLE.ino](https://github.com/Samuel-2552/AR-reimagined/blob/main/ESP32_Code/Blynk_Control/Blynk_Control.ino))
+Here is the code: [ESP32_BLE Example Sketch](ESP32_Code/Blynk_Control/Blynk_Control.ino)
 
 ### 6. Monitor Serial Output
 
