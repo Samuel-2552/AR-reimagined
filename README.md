@@ -46,6 +46,13 @@ Download and install the latest version of the Arduino IDE from the official web
 
 Here is the code: [ESP32_BLE Example Sketch](ESP32_Code/Blynk_Control/Blynk_Control.ino)
 
+### Libraries Used
+
+1. [Arduino Uno WiFi Dev Ed Library](https://github.com/arduino-libraries/ArduinoIoTCloud)
+2. [Blynk by Volodymyr Shymanskyy](https://github.com/blynkkk/blynk-library)
+3. [ACS712 by Rob Tillaart](https://github.com/RobTillaart/ACS712)
+4. [DHT11 by Dhruba Saha](https://github.com/adafruit/DHT-sensor-library)
+
 ### 6. Monitor Serial Output
 
 1. Open the Arduino IDE's Serial Monitor (Tools > Serial Monitor) to monitor the ESP32's output.
