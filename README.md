@@ -1,6 +1,11 @@
 # AR-reimagined
 An AR app with IoT
 
+#Project Idea
+<video width="320" height="240" controls>
+  <source src="https://github.com/Samuel-2552/AR-reimagined/blob/main/Project%20Demo/EDUARIOT.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 # ESP32 Blynk Integration Guide
 
 This guide will walk you through the process of integrating Blynk with an ESP32 using the Arduino IDE. Blynk is a popular Internet of Things (IoT) platform that allows you to build interactive projects and control them remotely.
@@ -45,6 +50,13 @@ Download and install the latest version of the Arduino IDE from the official web
 4. Upload the sketch to your ESP32 board.
 
 Here is the code: [ESP32_BLE Example Sketch](ESP32_Code/Blynk_Control/Blynk_Control.ino)
+
+#Project Demonstration
+
+<video width="320" height="240" controls>
+  <source src="https://github.com/Samuel-2552/AR-reimagined/blob/main/Project%20Demo/ARIOT.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### Libraries Used
 
