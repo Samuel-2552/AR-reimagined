@@ -43,11 +43,15 @@ Welcome to the realm of AR-Reimagined, where we blend the enchanting world of Au
 
 ## Dive into the Enchantment: Output Screenshots 📸
 
-![Screenshot 1](https://github.com/Samuel-2552/AR-reimagined/blob/main/output%20screenshots/1.jpeg)
-![Screenshot 2](https://github.com/Samuel-2552/AR-reimagined/blob/main/output%20screenshots/2.jpeg)
-![Screenshot 3](https://github.com/Samuel-2552/AR-reimagined/blob/main/output%20screenshots/3.jpeg)
-![Screenshot 4](https://github.com/Samuel-2552/AR-reimagined/blob/main/output%20screenshots/4.jpeg)
-![Screenshot 5](https://github.com/Samuel-2552/AR-reimagined/blob/main/output%20screenshots/5.jpeg)
+<img align="center" alt="coding" width="700" src="https://github.com/Samuel-2552/AR-reimagined/blob/main/output%20screenshots/1.jpeg">
+
+<img align="center" alt="coding" width="700" src="https://github.com/Samuel-2552/AR-reimagined/blob/main/output%20screenshots/2.jpeg">
+
+<img align="center" alt="coding" width="700" src="https://github.com/Samuel-2552/AR-reimagined/blob/main/output%20screenshots/3.jpeg">
+
+<img align="center" alt="coding" width="700" src="https://github.com/Samuel-2552/AR-reimagined/blob/main/output%20screenshots/4.jpeg">
+
+<img align="center" alt="coding" width="700" src="https://github.com/Samuel-2552/AR-reimagined/blob/main/output%20screenshots/5.jpeg">
 
 ## Illuminate Your Path: Troubleshooting and Resources 🛠️📚
 
